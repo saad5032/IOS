@@ -1,0 +1,32 @@
+# Xcode
+*.xcworkspace
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.xccheckout
+
+# Xcode project build files
+DerivedData/
+.build/
+
+# Xcode project scheme and settings files
+*.xcodeproj
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+
+# Swift Package Manager build artifacts
+.build/
+
+# macOS directory attributes
+*.swp
+
+# Dependencies
+Pods/
+Carthage/Build/
+
+# macOS specific
+.DS_Store
+
